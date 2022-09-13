@@ -1,23 +1,28 @@
 .choiceBtn1{
     line-height: 30px;
     width: 150px;
+    background-color: brown;
 }
 
 .choiceBtn2{
     line-height: 30px;
     width: 150px;
+    
 }
 
 .choiceBtn3{
     line-height: 30px;
     width: 150px;
+    background-color: grey;
 }
+
+
 #gameDiv{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, cursive;
-    border: 3px solid;
-    border-radius: 25px;
-    padding: 10px;
-    background-color: lightgrey;
+    border: 10px solid;
+    border-radius: 35px;
+    padding: 35px;
+    background-color: rgb(22, 122, 97);
     text-align: center;
 }
 #playerText{
