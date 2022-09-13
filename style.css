@@ -3,13 +3,22 @@
     width: 150px;
     background-color: brown;
 }
+.choiceBtn1:hover{
+    opacity: 0.25;
+}
 
+
+.choiceBtn2:hover{
+    opacity: 0.25;
+}
 .choiceBtn2{
     line-height: 30px;
     width: 150px;
     
 }
-
+.choiceBtn3:hover{
+    opacity: 0.25;
+}
 .choiceBtn3{
     line-height: 30px;
     width: 150px;
@@ -18,7 +27,7 @@
 
 
 #gameDiv{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, cursive;
+    font-family: brush system-ui, 
     border: 10px solid;
     border-radius: 35px;
     padding: 35px;
