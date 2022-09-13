@@ -1,2 +1,2 @@
-# rockj-paper-scissors
+# rocky-paper-scissors
 rock papery scissory
